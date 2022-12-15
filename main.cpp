@@ -18,7 +18,7 @@ int main() {
     float pos = Array_Search (lista,nome);
 
     if (pos<0) {
-        cout << "Non presente";
+        cout << "non presente";
     } else {
         cout << pos;
     }
