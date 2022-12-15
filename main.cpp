@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cstring>
+#include "lib.h"
 using namespace std;
 int main(){
     char lista[3][20];
