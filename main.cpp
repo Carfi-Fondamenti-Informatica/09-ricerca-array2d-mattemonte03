@@ -23,5 +23,5 @@ int main(){
         cout <<pos;
     }
 
-    return 0;
+    //return 0;
 }
